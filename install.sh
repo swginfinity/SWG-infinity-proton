@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-readonly REPO="${SWG_PROTON_REPO:-Einharr/SWG-infinity-proton}"
+readonly REPO="${SWG_PROTON_REPO:-swginfinity/SWG-infinity-proton}"
 readonly API="https://api.github.com/repos/$REPO/releases/latest"
 readonly RUNNER_SHA256="7e0b47f9ab773b693b255748366c1c2fd41a8f9b1662962f8210c86d7c12eae0"
 readonly WEBVIEW_SHA256="7e6369c3341f941ccc062d2322f4f5afe43dbf5bb61a456765656afe65b14f1a"

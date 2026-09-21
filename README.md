@@ -9,7 +9,7 @@ shortcut.
 In Desktop Mode, open Konsole and run:
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Einharr/SWG-infinity-proton/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/swginfinity/SWG-infinity-proton/main/install.sh)"
 ```
 
 Complete the official setup at its default location, close it, then return to
