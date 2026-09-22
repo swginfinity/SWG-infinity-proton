@@ -32,7 +32,7 @@ this repository's compatibility tool, and this repository's local data.
 Run the current installer:
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Einharr/SWG-infinity-proton/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/swginfinity/SWG-infinity-proton/main/install.sh)"
 ```
 
 Complete the official launcher setup using its default `C:\SWGInfinity`
